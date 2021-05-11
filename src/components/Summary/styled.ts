@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -27,9 +26,9 @@ export const Container = styled.div`
       line-height: 3rem;
     }
 
-    &.highlight-background{
-        background: var(--green);
-        color: var(--white)
+    &.highlight-background {
+      background: var(--green);
+      color: var(--white);
     }
   }
 `;
