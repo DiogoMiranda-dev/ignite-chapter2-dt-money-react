@@ -14,7 +14,7 @@ Aplicativo de controle financeiro desenvolvido no segundo módulo do Ignite entr
   <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#blue_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#astronaut-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-Licença">Licença</a>
 </p>
 
@@ -184,7 +184,7 @@ BASE_URL=
 
 ```
  -->
-## :man: Autor
+## :astronaut: Autor
 
 <a href="https://github.com/DiogoMiranda-dev/">
  <img src="https://avatars.githubusercontent.com/u/29265016?v=4" width="70px;" alt=""/>
@@ -202,6 +202,6 @@ BASE_URL=
 Feito com ❤️ por Diogo Miranda  🥇 :astronaut:  [https://diogomiranda.dev.br/](https://diogomiranda.dev.br/)
 
 
-## 📝 Licença
+## :memo: Licença
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
