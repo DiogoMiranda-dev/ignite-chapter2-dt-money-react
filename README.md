@@ -137,10 +137,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DiogoMiranda-dev/ignite-dt-money-react.git
+$ git clone https://github.com/DiogoMiranda-dev/ignite-chapter2-dt-money-react.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ignite-dt-money-react
+$ cd ignite-chapter2-dt-money-react
 ```
 
 ### 🎲 Rodando a Aplicação
