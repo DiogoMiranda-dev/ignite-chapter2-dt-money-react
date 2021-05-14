@@ -191,7 +191,6 @@ BASE_URL=
 <a href="https://www.linkedin.com/in/diogo-miranda-2233657a/">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Diogo%20Miranda-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
 </a>
-<br />
 <a href="https://www.instagram.com/diogomiranda.dev/">
   <img alt="Linkedin" src="https://img.shields.io/badge/-diogomiranda.dev-9871F5?label=Instagram&logo=instagram&style=flat-square">
 </a>
