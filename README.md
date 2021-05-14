@@ -1,6 +1,3 @@
-# ignite-dt-money-react
-Aplicativo de controle financeiro desenvolvido no segundo módulo do Ignite entregue pela Rocketseat
-
 <!-- <h1 align="center">
 🚧 DT-Money | Em Construção 🚧
 </h1> -->
